@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import styled from 'styled-components';
+import { BrowserRouter } from 'react-router-dom';
+import { ThemeProvider } from 'styled-components';
 
-const Test = styled.div`
-  background-color: yellow;
-`;
+import App from './App';
+import { theme } from './global-layouts/theme';
+import './utils';
 
-const App = () => {
-  return <Test>Hello React,Webpack 4 & Babel 7!</Test>;
-};
-
-ReactDOM.render(<App />, document.querySelector('#root'));
+ReactDOM.render(
+  <ThemeProvider theme={theme}>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </ThemeProvider>,
+  document.getElementById('root'),
+);

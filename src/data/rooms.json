@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Studio 1",
+    "description": "The room on the bottom floor."
+  },
+  {
+    "name": "Studio 2",
+    "description": "The room on the second floor."
+  },
+  {
+    "name": "The Cave",
+    "description": "The Cave."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2019-09-05 01:23:45",
+    "title": "WiFi",
+    "message": "ssid: DELIGHT STUDIOS, pwd: espresso"
+  },
+  {
+    "date": "2019-08-28 13:37:00",
+    "title": "Schedule is set",
+    "message": "The schedule for all the talks is now published. Check it out and plan your track for the day!"
+  },
+  {
+    "date": "2019-07-09 00:42:00",
+    "title": "Speakers updated",
+    "message": "The list of speakers is updated. We have an impressive lineup this year! The schedule is still a work in progress."
+  }
+]

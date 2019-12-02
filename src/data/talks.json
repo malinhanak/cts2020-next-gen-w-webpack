@@ -1,0 +1,443 @@
+[
+  {
+    "id": 0,
+    "speakers": [
+      {
+        "name": "Lars Svadängs",
+        "image": "lars-svadängs.jpg"
+      }
+    ],
+    "title": "Tror du jag ljuger a.k.a Några nedslag i en lång \"IT-karriär\"",
+    "description": "Några saker som jag kommer att ta upp:\n \nVad är en \"IT-karriär\"? \nOrgier på personaltoaletten \nFörsta giget \nJames Bond och Mac-utveckling \nStora drakar och små skärmmössor \nVi har ingen projektledning! \nHur kul är det att bli väckt mitt i natten efter produktionssättning?",
+    "feedbackUrl": "https://forms.gle/VoFd2yUQsWsG7LiA8",
+    "presentationUrl": "https://drive.google.com/file/d/1WrnkHnlzdxtFHtUPZMqU4LXkAk8SRn82/view?usp=sharing",
+    "tracks": ["itkarriär", "sex", "1MB", "dyrköptaerfarenheter", "bluebrim", "bluefish"],
+    "level": 0
+  },
+  {
+    "id": 1,
+    "speakers": [
+      {
+        "name": "Lars Svadängs",
+        "image": "lars-svadängs.jpg"
+      }
+    ],
+    "title": "Angular i statens tjänst a.k.a Hur gjorde vi på Kronofogden?",
+    "description": "Varför ville Kronofogden bli av med JSF, varför föll valet på just Angular, hur rodde vi det hela i land. På en statlig myndighet!\n \nJSF- nej tack! \nAngular - ja tack? \nSkall det vara så svårt att byta IDE? \nHur gjorde vi? \nDynamiska formulär \nRedux- ngrx/store \nLessons learned",
+    "feedbackUrl": "https://forms.gle/HJEASwEdB25v1LGd8",
+    "presentationUrl": "https://drive.google.com/file/d/1_hFARMmSkfN94wSbbXGuvnFJNpDYtUYO/view?usp=sharing",
+    "tracks": [
+      "statligmyndighet",
+      "enterprise",
+      "frontend",
+      "angular",
+      "rxjs",
+      "fullstackutvecklare?"
+    ],
+    "level": 0
+  },
+  {
+    "id": 2,
+    "speakers": [
+      {
+        "name": "Alexander Johansson",
+        "image": "alexander-johansson.jpg"
+      }
+    ],
+    "title": "git rebase demystified",
+    "description": "$git checkout -b abstract\n$git commit -am \"CTS 2019\"\n$git fetch\n$git rebase -i origin/master\n$git push -f\n$git checkout master\n$git merge abstract\n \nVad händer när alla dessa kommandon körs i din terminal? Det och lite till ska jag försöka förklara på 25 minuter.",
+    "feedbackUrl": "https://forms.gle/Hc6tRL56oLa3Q88QA",
+    "presentationUrl": "https://docs.google.com/presentation/d/1epCZF5JQSEj5c693i1V0ukTem76sFHXO4g77Olk52K0/edit?usp=sharing",
+    "tracks": ["git", "tools", "dethärbordedukunna"],
+    "level": 1
+  },
+  {
+    "id": 3,
+    "speakers": [
+      {
+        "name": "Jonas Öhrn",
+        "image": "jonas-öhrn.jpg"
+      }
+    ],
+    "title": "Flutter",
+    "description": "With Flutter, a new era in application development started in 2015. Targeting mobile and now also the web, desktop and embedded platforms, Flutter has a possibility to be THE universal application UI toolkit. The talk tries to present why Flutter makes things better for end users and developers.",
+    "feedbackUrl": "https://forms.gle/DRfRSR9ehXCngjPH9",
+    "presentationUrl": "https://docs.google.com/presentation/d/1UfqtTQwbiALGIz3yTopcxI9FvUCJAxTPOkGAbe4djak/edit?usp=sharing",
+    "tracks": ["english", "mobile", "android", "ios", "dart", "web", "nohtml", "english"],
+    "level": 1
+  },
+  {
+    "id": 4,
+    "speakers": [
+      {
+        "name": "Henrik Andersson",
+        "image": "henrik-andersson.jpg"
+      }
+    ],
+    "title": "Du är väl reaktiv lille vän",
+    "description": "Vad kännetecknar ett bra utvecklingsarbete? Vet vi vad vi gör? Vad är trådar och är de farliga?\n \nVi utgår från kvalitetsattributen Maintainability och Performance efficiency och tittar på hur användningen av reactive-ramverk kan se ut i en frontend-applikation baserad på Angular och i en Java Spring-baserad backend.\n \nInga klara svar på någonting utlovas men eventuell förvirring kommer att höjas till en högre nivå.",
+    "feedbackUrl": "https://forms.gle/HAcwduehWpdm9iCA8",
+    "presentationUrl": "https://docs.google.com/presentation/d/12B9kzYwvh_buEj3LaPL9rCumQ0mVW-L8LWTdjxhQ7Pk/edit?usp=sharing",
+    "tracks": ["qualityattributes", "reactiveprogramming", "designpatterns"],
+    "level": 1
+  },
+  {
+    "id": 5,
+    "speakers": [
+      {
+        "name": "Torbjörn Gannholm",
+        "image": "torbjörn-gannholm.jpg"
+      }
+    ],
+    "title": "The perfect programming language",
+    "description": "A lightning tour presenting some small thoughts on this big question.\n \nHow would we recognize a perfect programming language?\n \nDoes it already exist?\n \nWhat things would I want to include from languages I have used?\n \nA few examples of Tailspin, my humble attempt at language design.",
+    "feedbackUrl": "https://forms.gle/YH8n3LpN2ey4civYA",
+    "presentationUrl": "https://docs.google.com/presentation/d/1AZnVCzXEJdHbgT-4g6wUsqy3wvFt_CfAm0wnqHmFQKE/edit?usp=sharing",
+    "tracks": ["english", "programming", "philosophy", "usability"],
+    "level": 1
+  },
+  {
+    "id": 6,
+    "speakers": [
+      {
+        "name": "Sofia Julin",
+        "image": "sofia-julin.jpg"
+      },
+      {
+        "name": "Jessica Wiklund",
+        "image": "jessica-wiklund.jpg"
+      }
+    ],
+    "title": "Animeringar - Vår hemliga vän",
+    "description": "Har du någonsin funderat på varför du älskar en app men inte riktigt vet varför? Att du nästan längtar efter att betala räkningar trots att det faktiskt är en supertråkig uppgift.\n \nOch varför kan det ibland kännas som att du och din app är goda vänner? Som om du och appen bara _förstår varandra_ och trivs i varandras sällskap.\n \nDetta kommer vi tillsammans kika närmare på!",
+    "feedbackUrl": "https://forms.gle/1grHwEau39dcMcgk8",
+    "presentationUrl": "https://drive.google.com/file/d/1f19pmG3xHMYtJL4g6DxEb8oErBoLlbWh/view?usp=sharing",
+    "tracks": ["ux", "animation", "microinteraction"],
+    "level": 1
+  },
+  {
+    "id": 7,
+    "speakers": [
+      {
+        "name": "Billy Sjöberg",
+        "image": "billy-sjöberg.jpg"
+      }
+    ],
+    "title": "Project Loom - A future concurrency model on the JVM without Future<T>'s",
+    "description": "Project Loom is a JEP introducing Coroutines, Fibers and structured concurrency to the JVM. We take a deep-dive at what this means to the platform and how you'll soon be able to write simpler but scalable code without giving up your language constructs or resorting to callback hell for the sake of being non-blocking.",
+    "feedbackUrl": "https://forms.gle/wQLP9vFGWW3mcZN99",
+    "presentationUrl": "https://docs.google.com/presentation/d/1c6gNVGlgZFTqNVYpcXue_kduNhSWldjV6cO9iKpFiFQ/edit#slide=id.p",
+    "tracks": ["english", "there_will_be_code", "concurrency", "JVM", "Java 14+"],
+    "level": 1
+  },
+  {
+    "id": 8,
+    "speakers": [
+      {
+        "name": "Pär Strandberg",
+        "image": "pär-strandberg.jpg"
+      }
+    ],
+    "title": "Topsy-turvy: The art of building a crossword generator",
+    "description": "How do you generate a crossword? It can’t be that hard, right? Something Pär thought would be a fun hobby project turned out to be a lot harder than it first seemed.\n \nHe talks about the problems he faced, how to solve some of the problems, how his solution works and why crosswords are so cool!",
+    "feedbackUrl": "https://forms.gle/7KXjieS2RGvnkojk9",
+    "presentationUrl": "https://drive.google.com/file/d/1Uv2j9umV1AHkEtWEGlMUG2rF20c5Zfvs/view?usp=sharing",
+    "tracks": ["english", "problem solving", "crossword", "programming", "hobby project", "wtf"],
+    "level": 1
+  },
+  {
+    "id": 9,
+    "speakers": [
+      {
+        "name": "David Schlyter",
+        "image": "david-schlyter.jpg"
+      }
+    ],
+    "title": "Building a data lake at Bonnier News",
+    "description": "Over the last year I have been building a data lake platform at Bonnier News, and I've learned a lot about how data platforms are different from backend-systems. I'm going to about this difference, what deadly sins become allowed in the wild west of data, and best practices for approaching data problems in your work.",
+    "feedbackUrl": "https://forms.gle/2EcWLmJDoCZ6Lj3r6",
+    "presentationUrl": "https://docs.google.com/presentation/d/1TNdvrDKajgnkpUhG5ObB0CROcgKtofE-CD2jK5fV70s/edit?usp=sharing",
+    "tracks": ["english", "architecture", "bestpractices", "cloud", "dataengineering"],
+    "level": 1
+  },
+  {
+    "id": 10,
+    "speakers": [
+      {
+        "name": "Markus Ekholm",
+        "image": "markus-ekholm.jpg"
+      }
+    ],
+    "title": "Managing unmanageable messages",
+    "description": "Using RabbitMQ for work queues one will sooner or later run into a message that cannot be processed for one reason or another. This talk will outline some strategies for automatically handling such messages (when possible) and present an (new) open source tool for manually handling the messages that can't be automatically handled.",
+    "feedbackUrl": "https://forms.gle/B6RzRxqhP6wjn8vN9",
+    "presentationUrl": "https://drive.google.com/file/d/1M6p4ZXAnh98kxFxT5x5giY8tEMtvwiAA/view?usp=sharing",
+    "tracks": ["english", "RabbitMQ", "tools", "ops"],
+    "level": 1
+  },
+  {
+    "id": 11,
+    "speakers": [
+      {
+        "name": "Linda Östman",
+        "image": "linda-östman.jpg"
+      },
+      {
+        "name": "Kristina Berger",
+        "image": "kristina-berger.jpg"
+      }
+    ],
+    "title": "Distance assignments for dummies",
+    "description": "Distance assignments suck! Or do they? How does it work? Let's sort out the concepts and discuss pros and cons with distance assignments, by putting on hats for different roles. It’ll be fun, come join us in this interactive session!",
+    "feedbackUrl": "https://forms.gle/JGmVTihu7Sc9ALfC9",
+    "presentationUrl": "https://drive.google.com/open?id=1gewkGHzpq_QgettHgUN74MWGnuGQ-1pe",
+    "tracks": [
+      "english",
+      "remote",
+      "distance",
+      "distributedteams",
+      "waysofworking",
+      "communication"
+    ],
+    "level": 1
+  },
+  {
+    "id": 12,
+    "speakers": [
+      {
+        "name": "Ragnar Steinsen",
+        "image": "ragnar-steinsen.jpg"
+      }
+    ],
+    "title": "Hur prioriterar man hälsa i livets backlog?",
+    "description": "I en värld där vi bli bombarderade av information om hur vi kan få bättre hälsa kan det vara svårt att veta vad som är rätt information och hur man kan hitta rätta prioriteringar.\n \nVi tar många beslut som påverkar vår hälsa varje dag, ofta utan att vara riktigt medvetna om hur dessa påverkar oss.\n \nI den här föreläsningen ska jag presentera konkreta lösningar backat upp med teoretisk bakgrund för att du ska lättare ska hitta vägen din långsiktigt hållbar hälsa i vardagen.",
+    "feedbackUrl": "https://forms.gle/8m9U6podXNBF8U8s7",
+    "presentationUrl": "https://docs.google.com/presentation/d/1wXduLqOPK_nvkIX0DDb-HWlWWKcnOThWRyUuq2Svt_4/edit?usp=sharing",
+    "tracks": ["hälsa", "prioriteringar", "livetsbacklog", "mat", "motion", "sömn"],
+    "level": 1
+  },
+  {
+    "id": 13,
+    "speakers": [
+      {
+        "name": "Henrik Eriksson",
+        "image": "henrik-eriksson.jpg"
+      },
+      {
+        "name": "Leo Wentzel",
+        "image": "leo-wentzel.jpg"
+      }
+    ],
+    "title": "Snöluvan & Dvärgen",
+    "description": "Snöluvan driver från sin bas i ett sydamerikanskt land en framgångsrik e-handelsplats och förser konsumenter och distributörer världen över med unika produkter av högsta kvalitet. Dvärgen - en av Snöluvans bästa kunder och återförsäljare - är en högt eftertraktad allt-i-allo i Stockholms krogvärld.\n \nVi ger er en unik inblick i hur Snöluvans e-handelsplattform gör att Dvärgen diskret och tillförlitligt kan få varorna som gör vinternatten i Stockholm möjlig att uthärda. Vår saga för er in i BASE-transaktionernas förtrollade värld tillsammans med våra vänner Java, Spring och Axon.",
+    "feedbackUrl": "https://forms.gle/npa8GARVWep3135G7",
+    "presentationUrl": "https://drive.google.com/file/d/1vn6jTpbgxg-r3_QmobydER4W6TZb7cWC/view?usp=sharing",
+    "tracks": ["BASE", "Saga", "Axon", "Snöluvan", "Dvärgen", "Code"],
+    "level": 1
+  },
+  {
+    "id": 14,
+    "speakers": [
+      {
+        "name": "Erşan Çürüklü",
+        "image": "ersan-curuklu.jpg"
+      }
+    ],
+    "title": "Design Sprint - Business development from a user perspective",
+    "description": "A Design Sprint is a 4-day process for rapidly solving big challenges, creating new products, or improving existing ones. It compresses potentially months of work into a few days.\n \nDesign Sprints are the fastest way to find out if a product is worth developing, if a feature is worth the effort, or if your value proposition is really valid.",
+    "feedbackUrl": "https://forms.gle/GEhqc8m5c7okyMij9",
+    "presentationUrl": "https://drive.google.com/file/d/1wg0_JKAIzrHz0F4t2Phl-wG4s2ouqArk/view?usp=sharing",
+    "tracks": ["english", "designsprint"],
+    "level": 1
+  },
+  {
+    "id": 15,
+    "speakers": [
+      {
+        "name": "Mattias Nilsen",
+        "image": "mattias-nilsen.jpg"
+      }
+    ],
+    "title": "React för backendutvecklare",
+    "description": "En kort introduktion till vad React är och hur det fungerar. Fokus ligger på det som kan kännas svårt om man kommer från en backendroll. Med några praktiska exempel och en lagom djup dykning i vad som händer bakom kulisserna så kommer React kännas lätt som en plätt efter denna presentation.",
+    "feedbackUrl": "https://forms.gle/YKiCQawpqJq3Z5wA6",
+    "presentationUrl": "https://docs.google.com/presentation/d/1heHM2y7vqGg-gQv7eZbZsNIl7zoepl1MXrU509UWC-o/edit?usp=sharing",
+    "tracks": ["react", "beginner", "frontend"],
+    "level": 1
+  },
+  {
+    "id": 16,
+    "speakers": [
+      {
+        "name": "Linnea Olsén",
+        "image": "linnea-olsen.jpg"
+      }
+    ],
+    "title": "Dark Patterns och andra koncept",
+    "description": "Det kommer handla om webbpsykologi och beteendedesign. Vilka koncept som är bra att känna till för att påverka användare för att nå önskat resultat. Tips & tricks att använda men också några fulknep/dark patterns som kanske snarare bör undvikas.",
+    "feedbackUrl": "https://forms.gle/yZG2khe6z1bDaKtR7",
+    "presentationUrl": "https://drive.google.com/file/d/1wiZR_yblmcL4zu_0NUfqPldAJcXyruis/view?usp=sharing",
+    "tracks": ["ux", "webbpsykologi", "beteendedesign", "userexperience"],
+    "level": 1
+  },
+  {
+    "id": 17,
+    "speakers": [
+      {
+        "name": "Jonna Hjort",
+        "image": "jonna-hjort.jpg"
+      }
+    ],
+    "title": "Öka teamets träffsäkerhet - en snabbguide i hypotesprioritering",
+    "description": "Ett talk om hur man i produktteam kan bli bättre på att undvika felprioriteringar. Med en backlog full av hypoteser är det lätt hänt att lägga tid på att bygga saker som få använder. Så vad händer när man med hjälp av rätt verktyg börjar att scora hypoteserna?",
+    "feedbackUrl": "https://forms.gle/Y7aYYPsZVppT7MZKA",
+    "presentationUrl": "https://drive.google.com/open?id=1zcg4K0sW1gitfbkWqO8UsoeJfpu9pIIo",
+    "tracks": ["lean", "ux", "verktyg", "scrum", "lärande"],
+    "level": 1
+  },
+  {
+    "id": 18,
+    "speakers": [
+      {
+        "name": "Jimmy Hedman",
+        "image": "jimmy-hedman.jpg"
+      }
+    ],
+    "title": "IOT with MicroPython on microcontrollers",
+    "description": "MicroPython is a alternative implementation of Python 3, with low demands on CPU and memory as design goals. I will talk about differences and similarities with regular CPython 3 and show an IOT example of two different hardwares running MicroPython communicating via AWS IOT MQTT.",
+    "feedbackUrl": "https://forms.gle/PeVAh7HB2bdUqhdV9",
+    "presentationUrl": "https://drive.google.com/file/d/1Gr_MDNG4kZSwpxEkjxYqOzmVq2HLP7jz/view?usp=sharing",
+    "tracks": ["english", "python", "iot"],
+    "level": 1
+  },
+  {
+    "id": 19,
+    "speakers": [
+      {
+        "name": "Daniel Figueroa",
+        "image": "daniel-figueroa.jpg"
+      }
+    ],
+    "title": "Glöm 10000-timmars regeln!",
+    "description": "Hur ska man egentligen göra för att lära sig, och fortsätta lära sig?\n \nAlla har hört talas om 10000 timmars regeln, men det räcker inte bara att göra något  länge, för att bli bra, riktigt bra på något måste du också öva på rätt sätt.\n \nVi går igenom boken Peak och tittar på vad vi kan göra för att bli bättre på det vi gör, eller vad som helst egentligen.",
+    "feedbackUrl": "https://forms.gle/SgWUqDSddesZ1RwQ6",
+    "presentationUrl": "https://docs.google.com/presentation/d/14bc2DeKp0w2BkisbAEYIbm-LYZdtO2Yidsq64NhuJgw/edit?usp=sharing",
+    "tracks": ["produktivitet", "lärande", "personlig-utveckling"],
+    "level": 1
+  },
+  {
+    "id": 20,
+    "speakers": [
+      {
+        "name": "Derrick Eriksson",
+        "image": "derrick-eriksson.jpg"
+      }
+    ],
+    "title": "GraphQL: backend",
+    "description": "Vad är GraphQL?\n Vilka frågor skickar klienten?\n Vad gör servern för att svara?\n \nKom hit för att lära dig kärnkoncepten du behöver veta för att förstå hur det fungerar på serversidan. Efteråt kommer du ha en riktigt bra grund för att kasta dig in i tutorials och därifrån sätta upp dina egna servrar.\n \nAvslutningsvis delar jag med mig av mina egna erfarenheter från Essity där vi använder GraphQL i produktion.",
+    "feedbackUrl": "https://forms.gle/KmfQbuUXaQWt54kL7",
+    "presentationUrl": "https://drive.google.com/file/d/1TkpM4gbGomJWUaDZb1T_6H4no5FZ72xy/view?usp=sharing",
+    "tracks": ["GraphQL", "Backend"],
+    "level": 1
+  },
+  {
+    "id": 21,
+    "speakers": [
+      {
+        "name": "Filip Carlén",
+        "image": "filip-carlen.jpg"
+      }
+    ],
+    "title": "Web Components - Dela mera utan ramverk!",
+    "description": "Tänk om det fanns ett sätt att enkelt skapa delbara och återanvändbara komponenter utan att behöva använda sig av ett ramverk? Denna presentation kommer att introducera Web Components och försöka argumentera för varför det är här för att stanna.",
+    "feedbackUrl": "https://forms.gle/R4T8caLtnBXM2YVG9",
+    "presentationUrl": "https://docs.google.com/presentation/d/1oPXTcDJ_N__O5XflBFGlbCizmTiDnMqCJMPp0WHR2FM/edit?usp=sharing",
+    "tracks": ["frontend", "Javascript", "web", "components"],
+    "level": 1
+  },
+  {
+    "id": 22,
+    "speakers": [
+      {
+        "name": "Mats Fredriksson",
+        "image": "mats-fredriksson.jpg"
+      }
+    ],
+    "title": "Tingcore C&D - en Cygni berättelse",
+    "description": "Tingcore var ett dotterbolag till Fortum som byggde en ny plattform för elbilsladdning under 2017-2018, Charge&Drive. Cygni var den enskilt största leverantören av konsulter, bland annat så var ett team nästan helt bemannat av Cygni. Presentationen handlar om byggandet av den nya plattformen, både ur ett tekniskt perspektiv men också om samspelet mellan utvecklingsteam, chefer på utvecklingssidan och produktägare.\n \nPresentationen tar också upp vad some hände efter lanseringen fram till idag, då team-struktur ändrades men utvecklingen fortsatte.",
+    "feedbackUrl": "https://forms.gle/MDnJvKgddo3pcvyu7",
+    "presentationUrl": "https://drive.google.com/file/d/1oLcOxWIkfGoPl_HSU1u2NULZESn0xk5x/view?usp=sharing",
+    "tracks": ["AWS", "Spring boot", "Kafka", "Scrum", "IoT", "UX", "team-dynamik"],
+    "level": 1
+  },
+  {
+    "id": 23,
+    "speakers": [
+      {
+        "name": "Johan Wendin",
+        "image": "johan-wendin.jpg"
+      }
+    ],
+    "title": "Web components: What is it and how can i use it?",
+    "description": "What are web components?How do they fit into the modern web platform? These questions and more will i answer in my talk . I will with the help of personal experience with web components and demos, show how you can use the in real life. I will also shine a light on what problems web components have faced, and what’s on the horizon.",
+    "feedbackUrl": "https://forms.gle/CqHR3ZAsFPv9tBak6",
+    "presentationUrl": "https://docs.google.com/presentation/d/1QSlYWmPjsQ80zgWJ6T93lBe1SIwn3y2fDz1LxUo_gPw/edit?usp=sharing",
+    "tracks": [
+      "english",
+      "webcomponents",
+      "webstandards",
+      "dom",
+      "html",
+      "javascript",
+      "css",
+      "shadowdom",
+      "components"
+    ],
+    "level": 1
+  },
+  {
+    "id": 24,
+    "speakers": [
+      {
+        "name": "Carl Christiansen",
+        "image": "carl-christiansen.jpg"
+      }
+    ],
+    "title": "Deploy pipelines on kubernetes",
+    "description": "På 25 minuter ska jag skapa en Continuous Deployment pipeline för en service med hjälp av Google Cloud, Kubernetes, Helm och Jenkins. När allt är på plats kommer jag demonstrera en canary release och sedan pusha den till produktion. Under tiden kommer jag förklara de olika komponenterna och hur de fungerar.",
+    "feedbackUrl": "https://forms.gle/inXEC9kMAH24SL1S8",
+    "presentationUrl": null,
+    "tracks": ["cloud", "build-tools"],
+    "level": 1
+  },
+  {
+    "id": 25,
+    "speakers": [
+      {
+        "name": "Marina Goryacheva",
+        "image": "marina-goryacheva.jpg"
+      }
+    ],
+    "title": "React Cosmos - Fighting for component independence",
+    "description": "'m going to speak about a practical tool for React - React Cosmos, which make it possible to render components in all possible combinations of properties, context and state. It can mock external dependencies, help to see how application state develops in real time and can even be used for writing test cases.",
+    "feedbackUrl": "https://forms.gle/54qGkT6YwB941s2AA",
+    "presentationUrl": "https://drive.google.com/file/d/1eSzEwpxud7XVrfi9ANkAij8Ql7dESlmV/view?usp=sharing",
+    "tracks": ["english", "frontend", "react", "ReactCosmos", "devtool", "mock"],
+    "level": 1
+  },
+  {
+    "id": 26,
+    "speakers": [
+      {
+        "name": "Billy Sjöberg",
+        "image": "billy-sjöberg.jpg"
+      }
+    ],
+    "title": "Att samarbeta bort en flaskhals",
+    "description": "En reflektion av hur ett team mitt i stormen av det största mediala paradigmskiftet sedan TV’ns intåg gick från att vara en flaskhals till älskad samarbetspartner. En sann solskenshistoria om misslyckanden, brutalt smärtande ärlighet och ett öppet mindset.",
+    "feedbackUrl": "https://forms.gle/roMxahDraoBcHhd96",
+    "presentationUrl": "https://docs.google.com/presentation/d/1wOjlgyNziYuWulW4jnLXXCPHFrAtyRc26cWYfCmdi0Y/edit#slide=id.g5bba64ee9a_0_33",
+    "tracks": ["ledarskap", "icketecknisk", "utvecklingsmetodik", "utmananormer", "swedish"],
+    "level": 1
+  }
+]
