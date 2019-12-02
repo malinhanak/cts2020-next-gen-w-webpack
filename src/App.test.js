@@ -15,11 +15,11 @@ test('<App />', () => {
     </ThemeProvider>,
     { wrapper: MemoryRouter },
   );
-  // const main = getByTestId('main-content');
+  const main = getByTestId('main-content');
   const svgLoad = container.getElementsByTagName('svg');
   // Act
 
   // Assert
-  // expect(main).toBeTruthy();
+  expect(main).toBeTruthy();
   expect(svgLoad[0]).toBeTruthy();
 });
